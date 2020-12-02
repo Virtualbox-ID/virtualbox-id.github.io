@@ -4,11 +4,62 @@ title: Cara Install Ubuntu di Virtualbox
 categories: [Tutorial]
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
+1. Buka browser kemudian kunjungi situs resmi Ubuntu di https://ubuntu.com/download/desktop
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-1.webp)
 
-![](/images/Virtualbos.webp)
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-2.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-3.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-4.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-5.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-6.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-7.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-8.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-9.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-10.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-11.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-12.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-13.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-14.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-15.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-16.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-17.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-18.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-19.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-20.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-21.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-22.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-23.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-24.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-25.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-26.webp)
+
+![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-27.webp)
+
 
 ## Features overview
 
