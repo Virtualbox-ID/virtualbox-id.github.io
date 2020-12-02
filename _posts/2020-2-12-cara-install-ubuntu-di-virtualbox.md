@@ -6,135 +6,118 @@ categories: [Tutorial]
 
 1. Buka browser kemudian kunjungi situs resmi Ubuntu di https://ubuntu.com/download/desktop. Pilih versi Ubuntu yang ingin kamu download, dalam versi ini kami menggunakan Ubuntu 20.04.
 
-2. 
+2. Selanjutnya buka aplikasi Virtualbox, kemudian klik tombol **Baru**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-1.webp)
 
+3. Kemudian ada tiga kolom yang harus diubah, yaitu **Nama**, **Tipe** dan **Versi**. Untuk **Nama** bebas, sedangkan untuk **Tipe** pilih Linux dan untuk silahkan pilih **Ubuntu (64-bit)**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-2.webp)
+
+4. Langkah selanjutnya adalah pengalokasian memori atau RAM untuk mesin virtual yang sedang kita buat. Yang ini terserah, fleksibel saja dan sesuaikan dengan jumlah RAM yang ada di laptop kamu. Namun usahakan tidak lebih dari setengah kapasitas RAM asli laptop kamu. Kalau laptop kamu memiliki RAM 8GB, maka maksimal gunakan 4GB. Kalau sudah klik tombol **Lanjutkan**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-3.webp)
 
+5. Berikutnya ada tiga pilihan, silahkan pilih yang kedua yaitu **Buat hard disk virtual sekarang**. Lalu klik tombol **Buat**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-4.webp)
+
+6. Step berikutnya adalah menentukan tipe berkas hard disk. Disini saya menggunakan tipe **VDI (VirtualBox Disk Image)**. Kalau sudah dipilih klik tombol **Lanjutkan**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-5.webp)
 
+7. Berikutnya pilih **Dialokasikan secara dinamik** lalu klik **Lanjutkan**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-6.webp)
+
+8. Berikutnya tentukan lokasi berkas dan juga besarnya hard disk virtual. Sesuaikan dengan kebutuhan. Kalau ingin menginstall banyak aplikasi di Ubuntu nanti, maka bisa memperbesar ukuran hard disk virtual ini. Namun saya biasanya hanya mengalokasikan sebesar 10GB saja. Berikutnya klik tombol **Buat**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-7.webp)
 
+9. Nah, proses pembuatan mesin virtual telah selesai. Selanjutnya jalankan mesin virtual dengan cara klik nama mesin virtual yang tadi baru saja dibuat, kemudian klik tombol **Mulai**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-8.webp)
+
+10. Selanjutnya klik ikon folder.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-9.webp)
 
+11. Lalu klik tombol **Add**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-10.webp)
+
+12. Lalu pilih file iso Ubuntu yang tadi sudah kamu download.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-11.webp)
 
+13. Kemudian klik tombol **Choose**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-12.webp)
+
+14. Klik tombol **Start**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-13.webp)
 
+15. Kemudian akan muncul sebuah jendela Virtualbox baru. Ubuntu akan segera berjalan seperti pada screenshot dibawah:
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-14.webp)
+
+16. Setelah beberapa saat maka Ubuntu akan memberikan dua pilihan, pilih **Install Ubuntu**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-15.webp)
 
+17. Untuk pemilihan layout keyboard biarkan saja default yaitu English (US). Klik tombol **Continue**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-16.webp)
+
+18. Disini ada dua pilihan, yaitu **Normal installation** dan **Minimal installation**. Pilih **Normal installation** jika kamu menginginkan Ubuntu di install lengkap dengan seluruh aplikasi pendukung. Pilih **Minimal installation** jika hanya ingin menginstall Ubuntu dengan aplikasi-aplikasi utama saja seperti browser dan aplikasi utilitas dasar. Untuk **Other options** biarkan saja kosong. Kemudian klik **Continue**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-17.webp)
 
+19. Berikutnya masuk ke pemilihan tipe installasi. Pilih yang pertama yaitu **Erase disk and install Ubuntu**, lalu klik tombol **Install Now**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-18.webp)
+
+20. Lanjutkan dengan klik tombol **Continue**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-19.webp)
 
+21. Secara default Ubuntu akan mengenali lokasi kamu berada di Indonesia. Namun jika gagal mengenalinya, silahkan pilih region Indonesia dan klik tombol **Continue**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-20.webp)
+
+22. Berikutnya ada beberapa kolom yang harus kamu isi, berikut ini adalah penjelasannya.
+
+- Your name: isi dengan nama kamu
+- Your computer's name: Isi dengan nama komputer kamu
+- Pick a username: isi dengan username yang akan digunakan untuk login ke Ubuntu nanti
+- Choose a password: Isi dengan password yang akan digunakan setiap kali ingin login ke Ubuntu nanti
+- Confirm your password: Ulangi password sama persis seperti diatas
+
+Kalau semua kolom tersebut sudah di isi, klik tombol **Continue**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-21.webp)
 
+23. Berikutnya kamu akan melihat tampilan seperti dibawah ini. Itu artinya Ubuntu sedang dalam proses pemasangan. Tunggu saja hingga proses selesai. Biasanya memakan waktu hingga 10 menit.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-22.webp)
+
+24. Kalau pemasangan sudah selesai maka kamu akan melihat ada jendela berjudul **Installation Complete**. Klik tombol **Restart Now**.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-23.webp)
 
+25. Kemudian kalau melihat tampilan hitam seperti dibawah ini ketik saja tombol **ENTER**.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-24.webp)
+
+26. Mesin virtual kemudian akan melakukan restart. Dan kamu akan melihat tampilan seperti dibawah ini. Klik username kamu.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-25.webp)
 
+27. Setelah itu masukkan password yang sama dengan yang tadi kamu buat saat proses installasi diatas.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-26.webp)
 
+28. Setelah itu kamu bisa menggunakan Ubuntu di Virtualbox secara penuh.
+
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-27.webp)
-
-
-## Features overview
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-<div style="text-align: center;">
- <script async type="text/javascript" src="//cdn.carbonads.com/carbon.js?serve=CE7D6KJY&placement=wwwamitmerchantcom" id="_carbonads_js"></script>
-</div>
-
-## Using Reverie on GitHub Pages
-
-### Step 1) Fork Reverie to your User Repository
-
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
-
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
-
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
-
-### Step 2) Customize and view your site
-
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
-
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
-
-### Step 3) Publish your first blog post
-
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
-
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
-
-## Using Categories in Reverie
-
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
-
-For adding single category:
-
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
-
-## License
-
-MIT
-
-
