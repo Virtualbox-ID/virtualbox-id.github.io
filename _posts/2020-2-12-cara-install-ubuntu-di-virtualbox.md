@@ -10,7 +10,7 @@ Buka browser kemudian kunjungi situs resmi Ubuntu di https://ubuntu.com/download
 
 Selanjutnya buka aplikasi Virtualbox, kemudian klik tombol **Baru**.
 
-![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-1.webp)
+![Ubuntu](/images/ubuntu/cara-install-ubuntu-di-virtualbox-1.webp)
 
 Kemudian ada tiga kolom yang harus diubah, yaitu **Nama**, **Tipe** dan **Versi**. Untuk **Nama** bebas, sedangkan untuk **Tipe** pilih Linux dan untuk silahkan pilih **Ubuntu (64-bit)**.
 
