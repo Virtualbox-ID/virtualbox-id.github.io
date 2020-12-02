@@ -121,3 +121,5 @@ Setelah itu masukkan password yang sama dengan yang tadi kamu buat saat proses i
 Setelah itu kamu bisa menggunakan Ubuntu di Virtualbox secara penuh.
 
 ![](/images/ubuntu/cara-install-ubuntu-di-virtualbox-27.webp)
+
+**Catatan:** Tutorial ini ditulis menggunakan Virtualbox versi 6.1.16 di macOS Big Sur versi 11.0.1. Beberapa menu mungkin terlihat berbeda jika kamu menggunakan Virtualbox dan OS yang berbeda.
