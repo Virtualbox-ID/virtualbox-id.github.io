@@ -125,8 +125,16 @@ Jika sudah selesai akan muncul jendela **Installation Complete** seperti dibawah
 
 ![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-23.webp)
 
+Setelah melihat tampilan hitam seperti dibawah ini, tekan tombol **ENTER** di keyboard kamu.
+
 ![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-24.webp)
+
+Tunggu beberapa detik sampai mesin virtual restart. Kalau sudah, maka kamu akan melihat tampilan login seperti dibawah ini. Silahkan ketik password yang tadi kamu buat saat proses installasi.
 
 ![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-25.webp)
 
+Kemudian kalau sudah kamu akan masuk ke desktop elementary OS seperti pada screenshot dibawah ini.
+
 ![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-26.webp)
+
+**Catatan:** Tutorial ini ditulis menggunakan Virtualbox versi 6.1.16 di macOS Big Sur versi 11.0.1. Beberapa menu mungkin terlihat berbeda jika kamu menggunakan Virtualbox dan OS yang berbeda.
