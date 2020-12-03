@@ -91,7 +91,7 @@ Untuk pemilihan keyboard layout biarkan saja default, klik tombol **Continue**.
 
 Berikutnya beri tanda cek pada **Erase disk and install elementary** lalu klik tombol **Install Now**.
 
-![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-.17webp)
+![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-17.webp)
 
 Lalu klik **Continue**.
 
