@@ -95,13 +95,15 @@ Untuk mempercepat proses installasi, hapus tanda cek pada semua pilihan yang ada
 
 Berikutnya beri tanda cek pada **Erase disk and install elementary** lalu klik tombol **Install Now**.
 
+![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-18.webp)
+
 Lalu klik **Continue**.
 
-![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-18.webp)
+![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-19.webp)
 
 Kemudian akan masuk ke pemilihan lokasi. Biasanya lokasi kamu akan dikenali secara otomatis, yaitu di Indonesia. Kalau tidak, silahkan pilih secara manual lalu lanjutkan dengan klik tombol **Continue**.
 
-![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-19.webp)
+![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-20.webp)
 
 Berikutnya isi semua kolom yang disediakan, mulai dari username hingga password. Berikut ini adalah penjelasan setiap kolomnya:
 
@@ -113,15 +115,13 @@ Berikutnya isi semua kolom yang disediakan, mulai dari username hingga password.
 
 Kalau semua kolom diatas telah terisi, klik tombol **Continue**.
 
-![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-20.webp)
+![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-21.webp)
 
 Proses pemasangan elementary OS kemudian akan dilakukan. Tunggu saja hingga selesai.
 
-![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-21.webp)
+![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-22.webp)
 
 Jika sudah selesai akan muncul jendela **Installation Complete** seperti dibawah. Klik **Restart Now**.
-
-![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-22.webp)
 
 ![](/images/elementary-os/cara-install-elementary-os-di-virtualbox-23.webp)
 
