@@ -56,5 +56,13 @@ Setelah itu silahkan restart Macbook kamu. Dan coba cek di Launchpad, maka kini 
 
 ![](/images/cara-install-virtualbox/macos/cara-install-virtualbox-di-macos-12.webp)
 
+Selain menggunakan cara manual seperti diatas, kamu juga bisa menginstal Virtualbox di macOS menggunakan [Homebrew](https://brew.sh/).
+
+Untuk menginstal Virtualbox menggunakan Homebrew, buka terminal kemudian ketik perintah berikut:
+
+```
+brew install --cask virtualbox
+```
+
 ## Cara Install Virtualbox di Linux
 ## Cara Install Virtualbox di Windows 10
