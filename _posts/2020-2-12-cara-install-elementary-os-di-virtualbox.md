@@ -4,6 +4,8 @@ title:  Cara Install elementary OS di Virtualbox
 categories: [Tutorial]
 ---
 
+![](/images/elementary-os/cara-install-elementary-os-di-virtualbox.webp)
+
 Kunjungi situs resmi elementary OS di https://elementary.io/ kemudian download file ISO elementary OS.
 
 Jika file ISO elementary OS sudah di download, ikuti langkah-langkah berikut:
