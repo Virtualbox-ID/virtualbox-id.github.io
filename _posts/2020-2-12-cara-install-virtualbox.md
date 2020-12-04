@@ -69,9 +69,6 @@ brew install --cask virtualbox
 Untuk Ubuntu, elementary OS, Linux Mint, dan turunan Debian lainnya buka terminal kemudian ketik perintah dibawah:
 ```
 sudo apt-get update
-```
-
-```
 sudo apt-get install virtualbox
 ```
 
