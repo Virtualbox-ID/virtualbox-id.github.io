@@ -4,6 +4,8 @@ title: Pengertian Virtualbox, Fungsi dan Cara Menggunakannya
 categories: Tutorial
 ---
 
+![Pengertian Virtualbox](/images/pengertian-virtualbox.webp)
+
 Sebagian dari kamu mungkin sudah familiar dengan aplikasi bernama Virtualbox, atau bahkan mungkin sudah sering menggunakannya.
 
 Namun mungkin ada juga sebagian kecil diantara kamu yang belum mengetahui aplikasi ini sama sekali.
