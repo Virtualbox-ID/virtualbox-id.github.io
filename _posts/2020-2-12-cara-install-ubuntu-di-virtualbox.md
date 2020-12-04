@@ -4,7 +4,7 @@ title: Cara Install Ubuntu di Virtualbox
 categories: [Tutorial]
 ---
 
-![Ubuntu](/images/ubuntu/cara-install-ubuntu-di-virtualbox-27.webp)
+![Ubuntu](/images/ubuntu/cara-install-ubuntu-di-virtualbox.webp)
 
 Buka browser kemudian kunjungi situs resmi Ubuntu di https://ubuntu.com/download/desktop. Pilih versi Ubuntu yang ingin kamu download, dalam versi ini kami menggunakan Ubuntu 20.04.
 
