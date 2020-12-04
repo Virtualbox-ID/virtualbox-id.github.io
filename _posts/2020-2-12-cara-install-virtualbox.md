@@ -70,6 +70,7 @@ Untuk Ubuntu, elementary OS, Linux Mint, dan turunan Debian lainnya buka termina
 ```
 sudo apt-get update
 ```
+
 ```
 sudo apt-get install virtualbox
 ```
