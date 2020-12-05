@@ -74,6 +74,8 @@ sudo apt-get install virtualbox
 
 ## Cara Install Virtualbox di Windows 10
 
+Kunjungi situs resmi [Virtualbox](https://www.virtualbox.org/), lalu klik tombol **Download** dan pilih versi Windows.
+
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-1.webp)
 
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-2.webp)
