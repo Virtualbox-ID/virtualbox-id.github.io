@@ -102,6 +102,10 @@ Berikutnya proses instalasi akan segera dimulai. Tunggu hingga prosesnya selesai
 
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-7.webp)
 
+Nah, kalau sudah selesai klik **Finish**.
+
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-8.webp)
+
+Sekarang coba klik tombol Windows di laptop atau komputer kamu. Kemudian cari dengan kata kunci "Virtualbox" maka nanti akan ada aplikasi Virtualbox yang sudah siap untuk digunakan.
 
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-9.webp)
