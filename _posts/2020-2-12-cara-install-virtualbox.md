@@ -78,15 +78,27 @@ Kunjungi situs resmi [Virtualbox](https://www.virtualbox.org/), lalu klik tombol
 
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-1.webp)
 
+Berikutnya mulai proses instalasi, caranya adalah dengan klik dua kali file virtualbox.exe yang tadi baru saja di download. Kemudian kamu akan melihat jendela instalasi seperti dibawah ini, klik tombol **Next**.
+
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-2.webp)
+
+Selanjutnya akan muncul kotak dialog setup. Biarkan saja semuanya default, klik **Next** untuk melanjutkan.
 
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-3.webp)
 
+Selanjutnya akan muncul beberapa fitur yang ingin di install. Saya biasanya meng-uncheck pembuatan shortcut. Tapi itu terserah kamu, klik **Next**.
+
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-4.webp)
+
+Berikutnya akan muncul peringatan dari Virtualbox bahwa jaringan kamu akan segera terputus sesaat. Ini adalah hal biasa. Nanti jaringan internet kamu akan terhubung kembali dengan sendirinya. Klik **Yes**.
 
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-5.webp)
 
+Berikutnya akan muncul dialog instalasi. Klik tombol **Install**.
+
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-6.webp)
+
+Berikutnya proses instalasi akan segera dimulai. Tunggu hingga prosesnya selesai.
 
 ![](/images/cara-install-virtualbox/windows/cara-install-virtualbox-di-windows-7.webp)
 
