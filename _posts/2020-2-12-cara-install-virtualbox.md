@@ -6,6 +6,10 @@ categories: Tutorial
 
 ![Cara Install Virtualbox](/images/pengertian-virtualbox.webp)
 
+Saat ini Virtualbox tersedia dalam 3 platform utama, yaitu Linux, macOS dan juga Windows 10.
+
+Berikut ini adalah cara untuk memasang Virtualbox di ketiga platform tersebut:
+
 ## Cara Install Virtualbox di macOS
 
 Kunjungi situs resmi Virtualbox di http://virtualbox.org/. Kemudian klik tombol **Download Virtualbox**.
