@@ -1,8 +1,12 @@
 ---
 layout: post
 title: Cara Install Linux Mint di Virtualbox
-categories: Miscellaneous
+categories: Tutorial
 ---
+
+File ISO Linux Mint dapat di unduh secara gratis pada website resminya di https://linuxmint.com/download.php, dalam tutorial kali ini saya menggunakan Linux Mint dengan DE Cinnamon.
+
+Kalau file ISO Linux Mint sudah berhasil di download, langsung saja ikuti tutorial dibawah ini.
 
 Buka aplikasi Virtualbox di laptop atau komputer kamu. Jika belum punya, silahkan ikuti panduan cara install Virtualbox [disini](https://virtualbox.id/cara-install-virtualbox/).
 
